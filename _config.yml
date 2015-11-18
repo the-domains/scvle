@@ -1,7 +1,7 @@
 name: SCVLE
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.043812449323013425
+layout_spectrum: 0.23539
+typography_spectrum: 0.37603
 title: Ideas that scale
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#b5b4b0'
     - '#807b78'
   brandStrength: 0.875
-  lightness: 0.2255253919865936
+  lightness: 0.25
   saturation: 0.8355382613372058
-  rhythmicContrast: 0.6614777473732829
+  rhythmicContrast: 0.75
 purpose: []
