@@ -4,7 +4,7 @@
         <description><![CDATA[Ideas that scale]]></description>
         <link>https://thegrid.ai/scvle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 22:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 23:08:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scvle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to scale]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/scvle/welcome-to-scale/index.html</link>
             <guid isPermaLink="false">1506c039-5a79-4cb1-b074-63d3de04809d</guid>
             <pubDate>Wed, 18 Nov 2015 22:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9291741e-74a7-4a15-ae52-f603762bfaaa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/scvle/about/index.html</link>
+            <guid isPermaLink="false">b3e569d0-f1d6-4cc8-bcc9-684d0b3e49be</guid>
+            <pubDate>Wed, 18 Nov 2015 23:07:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
